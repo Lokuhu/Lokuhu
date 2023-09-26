@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokuhu
 - 👀 I’m interested in design patterns
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me mandayel515@gmail.com
 
